@@ -10,6 +10,7 @@ data/positive/
 # Checkpoints and models
 training_checkpoints/
 *.h5
+model.h5
 
 # Python environment and cache
 .venv/
