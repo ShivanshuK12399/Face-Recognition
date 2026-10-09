@@ -1,6 +1,8 @@
 # Datasets and image input folders
 application_data/input_image/
+application_data/input_images/
 application_data/verification_image/
+application_data/verification_images/
 data/anchor/
 data/negative/
 data/positive/
