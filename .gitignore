@@ -1,0 +1,16 @@
+# Datasets and image input folders
+application_data/input_image/
+application_data/verification_image/
+data/anchor/
+data/negative/
+data/positive/
+
+# Checkpoints and models
+training_checkpoints/
+*.h5
+
+# Python environment and cache
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
